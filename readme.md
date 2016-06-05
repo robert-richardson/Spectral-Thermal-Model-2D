@@ -2,7 +2,7 @@
 ===========================================
 
 This repository contains the Matlab source code to implement a 2-D Chebyshev Spectral Galerkin thermal model and
-compare it against a finite element (FEM) model using Matlab PDEtool.
+compare it against a finite element (FEM) model.
 
 An accompanying paper for this code entitled
 "On-board monitoring of 2-D spatially-resolved temperatures
@@ -20,9 +20,9 @@ If you are interested in our energy research,
 check out our research group website [Energy and Power Group][3].
 
 Feel free to email the authors with any questions:  
-[Robert Richardson](robert.richardson@eng.ox.ac.uk)
-[Shi Zhao](shi.zhao@eng.ox.ac.uk) 
-[David Howey](david.howey@eng.ox.ac.uk)
+[Robert Richardson](robert.richardson@eng.ox.ac.uk)  
+[Shi Zhao](shi.zhao@eng.ox.ac.uk)  
+[David Howey](david.howey@eng.ox.ac.uk) 
 
 
 Requirements
@@ -33,7 +33,7 @@ Although it has not been tested with earlier MATLAB releases, it should
 also work with no or minor modifications.
 
 You will also ideally have the [Matlab Partial Differentiation Toolbox][6] installed in order to run the finite element simulation
-for comparison with spectral-Galerkin solution.
+for comparison with the spectral-Galerkin solution.
 However, an alternative script which does not include the FE solution is also included (see below).
 
  
@@ -61,8 +61,8 @@ Getting started
 ===============
 
 Execution of the [Mainscript.m](Mainscript.m) file runs the simulation.
-The simulation comprises a 2000 s heat generation profile applied to a 2-D cylindrical battery.
-The evoluation of the temperature at four locations on the cell surface and core are compared with
+The simulation comprises a 2000 sec heat generation profile applied to a 2-D cylindrical battery.
+The evolution of the temperature at four locations on the cell surface and core are compared with
 the finite-element solution.
 2-D contour plots of the temperautre distribution at the end of the cycle are also displayed.
 
