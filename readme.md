@@ -60,13 +60,13 @@ The folder containing all the files should appear in your chosen directory.
 Getting started
 ===============
 
-Execution of the [Mainscript.m](Mainscript.m) file runs the simulation.
+Execution of the [MainScript.m](MainScript.m) file runs the simulation.
 The simulation comprises a 2000 sec heat generation profile applied to a 2-D cylindrical battery.
 The evolution of the temperature at four locations on the cell surface and core are compared with
 the finite-element solution.
 2-D contour plots of the temperautre distribution at the end of the cycle are also displayed.
 
-Execution of the [Mainscript_no_FEM.m](Mainscript_no_FEM.m) file runs the simulation without 
+Execution of the [MainScript_no_FEM.m](MainScript_no_FEM.m) file runs the simulation without 
 comparison against the Finite Element solution (use this if you don't have the PDE-Toolbox installed).
 
 
