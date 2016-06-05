@@ -1,7 +1,7 @@
 2-D Spectral-Galerkin Battery Thermal Model
 ===========================================
 
-<img src="GraphicalAbstract.png" width="700">
+<img src="GraphicalAbstract.png" width="775">
 
 This repository contains the Matlab source code to implement a 2-D Chebyshev Spectral Galerkin thermal model and
 compare it against a finite element (FEM) model.
