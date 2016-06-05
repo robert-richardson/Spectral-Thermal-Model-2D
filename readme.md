@@ -22,9 +22,9 @@ If you are interested in our energy research,
 check out our research group website [Energy and Power Group][3].
 
 Feel free to email the authors with any questions:  
-[Robert Richardson](robert.richardson@eng.ox.ac.uk)  
-[Shi Zhao](shi.zhao@eng.ox.ac.uk)  
-[David Howey](david.howey@eng.ox.ac.uk) 
+[Robert Richardson](mailto:robert.richardson@eng.ox.ac.uk)  
+[Shi Zhao](mailto:shi.zhao@eng.ox.ac.uk)  
+[David Howey](mailto:david.howey@eng.ox.ac.uk) 
 
 
 Requirements
