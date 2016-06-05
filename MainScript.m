@@ -17,8 +17,8 @@
 % in cylindrical lithium-ion batteries: Part I. Low-order thermal modelling"
 % has been submitted for publication in the Journal of Power Sources.
 
-% Copyright (c) 2016, The Chancellor, Masters and Scholars of the University 
-% of Oxford, and the 'Spectral li-ion SPM' Developers.
+% Copyright (c) 2016 by Robert Richardson, Shi Zhao, David Howey
+% and The Chancellor, Masters and Scholars of the University of Oxford.
 % See the licence file LICENCE.txt for more information.
 
 %% Initialise

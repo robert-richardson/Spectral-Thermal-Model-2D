@@ -1,5 +1,5 @@
-Copyright (c) 2016, The Chancellor, Masters and Scholars of the University 
-of Oxford, and the 'Spectral li-ion SPM' Developers. All rights reserved.
+Copyright (c) 2016 by Robert Richardson, Shi Zhao, David Howey
+and The Chancellor, Masters and Scholars of the University of Oxford.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:

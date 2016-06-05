@@ -1,20 +1,10 @@
-%{
-My name is Robert Richardson (robert.richardson@eng.ox.ac.uk) and I hold 
-the MIT license for this code. An accompanying paper for this code entitled
-"On-board monitoring of 2-D spatially-resolved temperatures
-in cylindrical lithium-ion batteries: Part I. Low-order thermal modelling"
-has been submitted for publication in the Journal of Power Sources. A 
-preprint for this paper can be found at: http://arxiv.org
-
-I would ask that you cite this paper if you want to use this code for 
-your own research. For further details on the work of the Energy Power 
-Group at Oxford, please see epg.eng.ox.ac.uk.
-%}
-
 function [tlist, u, F, nels] = func_pdetool(p, tinc)
 % This functions implements a finite element simulation of the model using
 % Matlab PDE-Tool. Matlab pdetool must be installed for this to run.
 
+% Copyright (c) 2016 by Robert Richardson, Shi Zhao, David Howey
+% and The Chancellor, Masters and Scholars of the University of Oxford.
+% See the licence file LICENCE.txt for more information.
 
 %% Inputs
 Q1 = p.q1/p.Vb; t1 = p.t1;

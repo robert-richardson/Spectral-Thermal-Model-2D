@@ -2,19 +2,6 @@
 %   2-D Spectral-Galerkin Battery Thermal Model (without FEM comparison)  %
 %-------------------------------------------------------------------------%
 
-%{
-My name is Robert Richardson (robert.richardson@eng.ox.ac.uk) and I hold 
-the MIT license for this code. An accompanying paper for this code entitled
-"On-board monitoring of 2-D spatially-resolved temperatures
-in cylindrical lithium-ion batteries: Part I. Low-order thermal modelling"
-has been submitted for publication in the Journal of Power Sources. A 
-preprint for this paper can be found at: http://arxiv.org
-
-I would ask that you cite this paper if you want to use this code for 
-your own research. For further details on the work of the Energy Power 
-Group at Oxford, please see epg.eng.ox.ac.uk.
-%}
-
 % This code implements a Chebyshev Spectral Galerkin 2D thermal model.
 % It does NOT compare the result against FEM simulations. Use this script
 % if you do not have Matlab PDEtool installed on your computer. Otherwise,
@@ -26,6 +13,14 @@ Group at Oxford, please see epg.eng.ox.ac.uk.
 % 'fem':    stores Finite-Element model inputs/outputs
 % 'mult':   higher level struct storing both model outputs at multiple time instances
 
+% An accompanying paper for this code entitled
+% "On-board monitoring of 2-D spatially-resolved temperatures
+% in cylindrical lithium-ion batteries: Part I. Low-order thermal modelling"
+% has been submitted for publication in the Journal of Power Sources.
+
+% Copyright (c) 2016 by Robert Richardson, Shi Zhao, David Howey
+% and The Chancellor, Masters and Scholars of the University of Oxford.
+% See the licence file LICENCE.txt for more information.
 
 %% Initialise
 clear; 
