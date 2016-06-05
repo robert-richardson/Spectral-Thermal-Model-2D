@@ -81,8 +81,8 @@ please read the `LICENSE.txt` file for more information.
 
 
 [1]: http://arxiv.org
-[2]: http://epg.eng.ox.ac.uk/
-[3]: http://users.ox.ac.uk/~engs1053/
+[2]: http://users.ox.ac.uk/~engs1053/
+[3]: http://epg.eng.ox.ac.uk/
 [4]: https://github.com/robert-richardson/Spectral-Thermal-Model-2D/archive/master.zip
 [5]: https://git-scm.com/
 [6]: http://uk.mathworks.com/products/pde/
