@@ -6,14 +6,12 @@
 This repository contains the Matlab source code to implement a 2-D Chebyshev Spectral Galerkin thermal model and
 compare it against a finite element (FEM) model.
 
-An accompanying paper for this code entitled
-"On-board monitoring of 2-D spatially-resolved temperatures
-in cylindrical lithium-ion batteries: Part I. Low-order thermal modelling"
-has been submitted for publication in the Journal of Power Sources. A 
-preprint for this paper will be made available on [arxiv.org][1] shortly. 
+This code accompanies the following paper:
+Robert R. Richardson, Shi Zhao, David A. Howey, [On-board monitoring of 2-D spatially-resolved temperatures in cylindrical lithium-ion batteries: Part I. Low-order thermal modelling][7], Journal of Power Sources, vol. 326, pp 377-388.
 
 I would ask that you cite this paper if you want to use this code for 
 your own research.
+Note that the second part of this paper runs this model inside an extended Kalman filter state estimator. That paper is available [here][8] and its accompanying code available [here][9].
 This code has been developed at the Department of Engineering Science of 
 the University of Oxford. 
 For information about our lithium-ion battery research, 
@@ -86,6 +84,9 @@ please read the `LICENSE.txt` file for more information.
 [4]: https://github.com/robert-richardson/Spectral-Thermal-Model-2D/archive/master.zip
 [5]: https://git-scm.com/
 [6]: http://uk.mathworks.com/products/pde/
+[7]: http://www.sciencedirect.com/science/article/pii/S0378775316308151
+[8]: http://www.sciencedirect.com/science/article/pii/S0378775316308163
+[9]: https://github.com/robert-richardson/EKF-Impedance-2D-Temperature
 
 
 
