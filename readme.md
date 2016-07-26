@@ -7,7 +7,7 @@ This repository contains the Matlab source code to implement a 2-D Chebyshev Spe
 compare it against a finite element (FEM) model.
 
 This code accompanies the following paper:
-Robert R. Richardson, Shi Zhao, David A. Howey, [On-board monitoring of 2-D spatially-resolved temperatures in cylindrical lithium-ion batteries: Part I. Low-order thermal modelling][7], Journal of Power Sources, vol. 326, pp 377-388.
+Robert R. Richardson, Shi Zhao, David A. Howey, [On-board monitoring of 2-D spatially-resolved temperatures in cylindrical lithium-ion batteries: Part I. Low-order thermal modelling][7], Journal of Power Sources, vol. 326, pp 377-388, 2016.
 
 I would ask that you cite this paper if you want to use this code for 
 your own research.
